@@ -10,8 +10,21 @@
 
 #### 라이브러리는 사용하지 않았고 html canvas에 작업하였습니다.
 
-|제목|내용|설명|
+## Usage
+
+new ScatterLetters(strs[,options])
+
+
+
+|Key|Value|설명|
 |------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|sparkLevel|마우스가 지나갈 때 퍼트려지는 강도입니다.|테스트3|
+|comebackSpeed|테스트2|테스트3|
+|mouseThickness|테스트2|테스트3|
+|color|테스트2|테스트3|
+|flyingDotColor|테스트2|테스트3|
+|blankWidth|테스트2|테스트3|
+|letterSpacing|테스트2|테스트3|
+|fontSize|테스트2|테스트3|
+|top|테스트2|테스트3|
+|left|테스트2|테스트3|
