@@ -1,6 +1,7 @@
 # Scatter Letters
 
-## 마우스가 지나갈 때 글자가 흩뿌려집니다.(No PeerDependency! Good performance!)
+### 마우스가 지나갈 때 글자가 흩뿌려집니다.
+### No PeerDependency! Good performance!
 
 <a href="https://ibb.co/ZL1N99L"><img src="https://i.ibb.co/tmP3RRm/2023-02-04-4-22-59.png" alt="2023-02-04-4-22-59" border="0" /></a>
 
