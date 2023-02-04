@@ -1,8 +1,8 @@
 # ScatterLetters
 
-## YOUTUBE: https://www.youtube.com/watch?v=eVliGZLmwks&feature=youtu.be
+#### YOUTUBE: https://www.youtube.com/watch?v=eVliGZLmwks&feature=youtu.be
 
-## 이 프로젝트는 Interactive Developer 김종민 님의 유튜브를 보고 영감을 받아 제작되었습니다.
+이 프로젝트는 Interactive Developer 김종민 님의 유튜브를 보고 영감을 받아 제작되었습니다.
 
 https://www.youtube.com/watch?v=HMQ9fEX28fk&t=306s
 
